@@ -15,4 +15,7 @@ public class Main {
         System.out.println("Finish");
 
     }
-}
+
+public void boni() {
+        System.out.println("Bonita Irinovna");
+}}
