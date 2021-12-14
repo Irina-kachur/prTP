@@ -8,7 +8,7 @@ public class Main {
 
     }
     public void start() {
-        System.out.println("Start");
+        System.out.println("no name");
 
     }
     public void finish() {
