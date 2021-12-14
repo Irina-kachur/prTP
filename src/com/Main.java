@@ -11,4 +11,8 @@ public class Main {
         System.out.println("Start");
 
     }
+    public void finish() {
+        System.out.println("Finish");
+
+    }
 }
